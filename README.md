@@ -69,7 +69,7 @@ pip install -r requirements.txt
 Create a `.env` file:
 
 ```env
-OPENWEATHER_API_KEY=your_api_key
+WEATHER_API_KEY=your_api_key
 ```
 
 Run Backend:
