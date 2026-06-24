@@ -28,7 +28,7 @@ A full-stack Weather Forecast Application built using **React** and **FastAPI**.
 - Pydantic
 
 ### APIs
-- OpenWeather API (or your weather provider)
+- Weather API (or your weather provider)
 
 ## 📂 Project Structure
 
